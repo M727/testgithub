@@ -711,9 +711,6 @@
         <option name="FOREGROUND" value="66ff00" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value />
-    </option>
     <option name="HAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
@@ -730,9 +727,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="f0f0f" />
       </value>
-    </option>
-    <option name="HAML_ID">
-      <value />
     </option>
     <option name="HAML_LINE_CONTINUATION">
       <value>
@@ -764,9 +758,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="f0f0f" />
       </value>
-    </option>
-    <option name="HAML_TAG_NAME">
-      <value />
     </option>
     <option name="HAML_TEXT">
       <value>
@@ -1230,9 +1221,6 @@
         <option name="FOREGROUND" value="339999" />
       </value>
     </option>
-    <option name="REGEXP.COMMA">
-      <value />
-    </option>
     <option name="REGEXP.COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
@@ -1574,9 +1562,6 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
-    <option name="SMARTY_IDENTIFIER">
-      <value />
-    </option>
     <option name="SMARTY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff6600" />
@@ -1746,9 +1731,6 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
-    <option name="TWIG_IDENTIFIER">
-      <value />
-    </option>
     <option name="TWIG_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff6600" />
@@ -1838,9 +1820,6 @@
       <value>
         <option name="FOREGROUND" value="66ff00" />
       </value>
-    </option>
-    <option name="YAML_SCALAR_KEY">
-      <value />
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
