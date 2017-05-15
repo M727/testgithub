@@ -1,7 +1,6 @@
 <scheme name="my_VibrantInk copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
@@ -334,9 +333,6 @@
         <option name="FOREGROUND" value="66ff00" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="CSS.TAG_NAME">
-      <value />
     </option>
     <option name="CSS.URL">
       <value>
@@ -712,9 +708,6 @@
         <option name="FOREGROUND" value="66ff00" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value />
-    </option>
     <option name="HAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
@@ -731,9 +724,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="f0f0f" />
       </value>
-    </option>
-    <option name="HAML_ID">
-      <value />
     </option>
     <option name="HAML_LINE_CONTINUATION">
       <value>
@@ -765,9 +755,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="f0f0f" />
       </value>
-    </option>
-    <option name="HAML_TAG_NAME">
-      <value />
     </option>
     <option name="HAML_TEXT">
       <value>
@@ -1017,9 +1004,6 @@
         <option name="BACKGROUND" value="6e3b3b" />
       </value>
     </option>
-    <option name="PHP_COMMA">
-      <value />
-    </option>
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
@@ -1060,9 +1044,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_IDENTIFIER">
-      <value />
-    </option>
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff6600" />
@@ -1088,16 +1069,10 @@
         <option name="FOREGROUND" value="ff6600" />
       </value>
     </option>
-    <option name="PHP_PREDEFINED SYMBOL">
-      <value />
-    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2a2d32" />
       </value>
-    </option>
-    <option name="PHP_SEMICOLON">
-      <value />
     </option>
     <option name="PHP_STRING">
       <value>
@@ -1230,9 +1205,6 @@
       <value>
         <option name="FOREGROUND" value="339999" />
       </value>
-    </option>
-    <option name="REGEXP.COMMA">
-      <value />
     </option>
     <option name="REGEXP.COMMENT">
       <value>
@@ -1575,9 +1547,6 @@
         <option name="FOREGROUND" value="9933cc" />
       </value>
     </option>
-    <option name="SMARTY_IDENTIFIER">
-      <value />
-    </option>
     <option name="SMARTY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff6600" />
@@ -1644,49 +1613,25 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="SQL_COMMA">
-      <value />
-    </option>
     <option name="SQL_COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
       </value>
-    </option>
-    <option name="SQL_DATABASE_OBJECT">
-      <value />
-    </option>
-    <option name="SQL_IDENT">
-      <value />
-    </option>
-    <option name="SQL_IDENT_DELIMITED">
-      <value />
     </option>
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff6600" />
       </value>
     </option>
-    <option name="SQL_LOCAL_ALIAS">
-      <value />
-    </option>
     <option name="SQL_NUMBER">
       <value>
         <option name="FOREGROUND" value="339999" />
       </value>
     </option>
-    <option name="SQL_PARAMETER">
-      <value />
-    </option>
     <option name="SQL_PROCEDURE">
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="SQL_SCHEMA">
-      <value />
-    </option>
-    <option name="SQL_SEMICOLON">
-      <value />
     </option>
     <option name="SQL_STRING">
       <value>
@@ -1697,9 +1642,6 @@
       <value>
         <option name="FOREGROUND" value="fda5ff" />
       </value>
-    </option>
-    <option name="SQL_TABLE">
-      <value />
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
@@ -1746,9 +1688,6 @@
       <value>
         <option name="FOREGROUND" value="9933cc" />
       </value>
-    </option>
-    <option name="TWIG_IDENTIFIER">
-      <value />
     </option>
     <option name="TWIG_KEYWORD">
       <value>
@@ -1839,9 +1778,6 @@
       <value>
         <option name="FOREGROUND" value="66ff00" />
       </value>
-    </option>
-    <option name="YAML_SCALAR_KEY">
-      <value />
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
